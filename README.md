@@ -29,13 +29,13 @@ Real-time-Human-Detection-Counting-HOG-/
 ## Running the Project
 From terminal (at repository root):
 - Webcam mode:
-    ```bash
+    ``` bash
   python human_counting.py --camera true  
 - Video mode:
-  ```bash
+  ```
   python human_counting.py --video path/to/video.mp4  
 - Image mode:
-    ```bash
+    ``` bash
     python human_counting.py --image path/to/image.jpg  
 - Save output (video or image):
     ```bash
