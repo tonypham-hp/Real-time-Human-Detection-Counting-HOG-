@@ -1,4 +1,4 @@
-
+ 
 
 import cv2
 import imutils
@@ -280,4 +280,5 @@ if __name__ == "__main__":
 
 #     args = argsParser()
 #     humanDetector(args)
+
 # # ...existing code...
